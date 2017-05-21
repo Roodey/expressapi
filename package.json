@@ -9,6 +9,10 @@
   "author": "Joey Williams",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "morgan": "^1.8.1",
+    "pg": "^6.2.2"
   }
 }
