@@ -1,0 +1,14 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "Lets see it from the ground up",
+  "main": "app.js",
+  "scripts": {
+    "test": "testm"
+  },
+  "author": "Joey Williams",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
